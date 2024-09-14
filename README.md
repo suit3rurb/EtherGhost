@@ -1,2 +1,1 @@
-# EtherGhost
-Adaptive pagination plugin for web frameworks and other applications
+❌ Missing file: ./data/readme.txt
