@@ -8,3 +8,6 @@
 
 ## Update from enhancement/merge-3269
 - Auto-generated changes
+
+## Update from feature/merge-6899
+- Auto-generated changes
